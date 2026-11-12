@@ -1,7 +1,6 @@
 # variables
-iconic="Maximo"
-print ("iconic")
+name="Andrey"
+print (f"Hello, I'm {name}")
 
-iconic="bob"
-
-print(iconic)
+Andrey="something"
+print(Andrey)
